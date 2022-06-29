@@ -28,4 +28,8 @@ git commit --amend ------------> to change the commit
 
 i+esc-->:wq+ enter --->to back to the power shell
 
-git
+ git remote add origin https://github.com/rakhiprajapati042001/GitTutorial.git
+
+
+$ git push -u origin master
+
