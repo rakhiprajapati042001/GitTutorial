@@ -14,10 +14,18 @@ git diff--- to compare the staging aarea fila and working directory file
 
 git rm first.txt ----------------direct remove file from cmd
 
-git rm --cached filename --------------> to untracked the file from git
+git mv rename.txt first.txt----------->use this command for rename the file
 
-git checkout --file-name ------------>to get back on privieus commit after the change we need to previous commit agtre the changes
+git log -p ------for see all commit chnages
 
-(use "git rm --cached <file>..." to unstage)
+git log -p -2 ----------see ony 2 commit chnages
 
-git checkout -f ----> for all restore commit previous
+git log --stat -------->short summary of commit
+
+git log --pretty=oneline ------->all coomit show in one line
+
+git commit --amend ------------> to change the commit 
+
+i+esc-->:wq+ enter --->to back to the power shell
+
+git
