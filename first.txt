@@ -33,3 +33,6 @@ i+esc-->:wq+ enter --->to back to the power shell
 
 $ git push -u origin master
 
+ git config --global alias.st status--------->use to chnage the command from status to st 
+
+ git config --global alias.cm commit -----> ise to chnage the command the from coomit to cm
