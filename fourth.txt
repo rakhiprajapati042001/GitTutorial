@@ -1,0 +1,4 @@
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+
+now we try to skip a staging area
+$ git commit -a -m"direct coomit skip the staging area"
